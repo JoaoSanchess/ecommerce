@@ -1,0 +1,13 @@
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/web/ProdutoMB.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/entity/Produto.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/web/UtilsMB.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/entity/Pedido.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/web/ImageMB.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/web/CarrinhoDeComprasMB.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/exception/ClienteExistenteException.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/services/ProdutoServices.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/services/ClienteServices.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/exception/ClienteNaoEncontradoException.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/services/PedidoServices.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/entity/Cliente.java
+/home/joao/Documentos/loja/src/main/java/br/com/javamagazine/jee6/loja/entity/ItemPedido.java

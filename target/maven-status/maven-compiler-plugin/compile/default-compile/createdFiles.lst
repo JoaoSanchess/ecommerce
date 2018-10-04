@@ -1,0 +1,13 @@
+br/com/javamagazine/jee6/loja/services/PedidoServices.class
+br/com/javamagazine/jee6/loja/entity/Produto.class
+br/com/javamagazine/jee6/loja/exception/ClienteExistenteException.class
+br/com/javamagazine/jee6/loja/web/ImageMB.class
+br/com/javamagazine/jee6/loja/web/UtilsMB.class
+br/com/javamagazine/jee6/loja/services/ProdutoServices.class
+br/com/javamagazine/jee6/loja/entity/Pedido.class
+br/com/javamagazine/jee6/loja/web/CarrinhoDeComprasMB.class
+br/com/javamagazine/jee6/loja/web/ProdutoMB.class
+br/com/javamagazine/jee6/loja/entity/ItemPedido.class
+br/com/javamagazine/jee6/loja/entity/Cliente.class
+br/com/javamagazine/jee6/loja/services/ClienteServices.class
+br/com/javamagazine/jee6/loja/exception/ClienteNaoEncontradoException.class

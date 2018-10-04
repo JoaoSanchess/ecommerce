@@ -1,0 +1,3 @@
+127.0.0.1 - - [03/Oct/2018:19:42:08 -0300] "GET /ecommerce HTTP/1.1" 302 - http-bio-9090-exec-1 0
+127.0.0.1 - - [03/Oct/2018:19:42:08 -0300] "GET /ecommerce/ HTTP/1.1" 500 3230 http-bio-9090-exec-2 47
+127.0.0.1 - - [03/Oct/2018:19:42:08 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-3 0
